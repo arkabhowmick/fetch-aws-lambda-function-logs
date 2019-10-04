@@ -1,0 +1,15 @@
+{
+  "name": "search-lambda-logs",
+  "version": "1.0.0",
+  "description": "search lambda function logs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Arka Bhowmick",
+  "license": "ISC",
+  "dependencies": {
+    "cli-progress": "^3.3.1",
+    "shelljs": "^0.8.3"
+  }
+}
