@@ -2,7 +2,10 @@
 This script is used to fetch the logs of lambda function depending on search parameters.
 If we give no date, it will fetch all the logs.
 
+## Prerequisites
+You must have nodejs installed. You must have aws-cli configured.
+
 ## Steps
-1. do npm install
-2. do npm start
-3. Add the details
+1. run "npm install".
+2. run "npm start".
+3. Provide the search parameters.
